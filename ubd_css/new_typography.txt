@@ -1,0 +1,17 @@
+LEAGUE GOTHIC
+
+This will be provided via the CSS font-face rule. I've removed it from TypeKit. Please use only the fonts included in the zip file, and the follow CSS styles (obviously the url path will be wherever it is you store the fonts on the server):
+@font-face {
+    font-family: 'league-gothic';
+    src: url('_fonts/League_Gothic-webfont.eot');
+    src: url('_fonts/League_Gothic-webfont.eot?#iefix') format('embedded-opentype'), url('_fonts/League_Gothic-webfont.woff') format('woff'), url('_fonts/League_Gothic-webfont.ttf') format('truetype'), url('_fonts/League_Gothic-webfont.svg#LeagueGothicRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal; /* for IE7 */
+}
+
+PROXIMA NOVA
+
+Proxima Nova will still be provided via TypeKit. There are no changes for this font.

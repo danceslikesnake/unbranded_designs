@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+div.tagsinput { border-bottom: 0; border-top: 2px solid #f9ef98 !important; border-left: 2px solid #f9ef98 !important; border-right: 0; background: #fefdf0; padding:9px; width:250px !important; height:125px !important; overflow-y: auto;}
+/*div.tagsinput span.tag { border: 1px solid #a5d24a; -moz-border-radius:2px; -webkit-border-radius:2px; display: block; float: left; padding: 5px; text-decoration:none; background: #cde69c; color: #638421; margin-right: 5px; margin-bottom:5px;font-family: helvetica;  font-size:13px;}*/
+div.tagsinput span.tag { border: 1px solid #D4D3D2; -moz-border-radius:2px; -webkit-border-radius:2px; display: block; float: left; padding:2px 5px; text-decoration:none; color: #29221F; margin:2px 5px 5px 2px;font-family: "proxima-nova",sans-serif;  font-size:13px;}
+div.tagsinput span.tag a { /*font-weight: bold; color: #82ad2b;  font-size: 11px;*/ text-decoration:none; background:url(close_tags.png) no-repeat; padding-right:8px; }
+div.tagsinput input { width:80px; margin:0px; font-family: helvetica; font-size: 13px; border:1px solid transparent; padding:5px; background: transparent; color: #000; outline:0px;  margin-right:5px; margin-bottom:5px; }
+div.tagsinput div { display:block; float: left; }
+.tags_clear { clear: both; width: 100%; height: 0px; }
+.not_valid {background: #FBD8DB !important; color: #90111A !important;}
