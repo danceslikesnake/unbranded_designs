@@ -1399,9 +1399,9 @@ img.no_border {
     width: 100%;
     height: 420px;
     text-decoration: none;
-    color: #707070;
+    color: #707070 !important;
 }
-.lookbook_slider_link:hover, .lookbook_slider_link:visited {
+.lookbook_slider_link:hover, .lookbook_slider_link:active {
     color: #707070 !important;
 }
 .lookbook_hero_info, .lookbook_hero_cover, .lookbook_hero_image {
