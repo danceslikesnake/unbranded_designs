@@ -49,11 +49,11 @@
     <div class="layout-978px-centered clearfix">
         <a href="index.php" class="logo"><img src="ubd_imgs/logo.png" /></a>
         <ul class="nav clearfix">
-            <li class="nav_link"><a href="vote.php">Support</a></li>
+            <li class="nav_link"><a href="vote.php">designs</a></li>
             <li class="nav_link"><a href="shop.php">Shop</a></li>
             <li class="nav_link nav_link_alt"><a href="submit_design.php">Submit a Design</a></li>
+            <li class="nav_link"><a href="about_us.php">About</a></li>
             <li class="nav_link"><a href="http://unbrandeddesignsblog.wordpress.com/">Blog</a></li>
-            <li class="nav_link"><a href="profile.php">My Profile</a></li>
             <li class="nav_link"><a href="#">Login / Register</a></li>
         </ul>
     </div>

@@ -13,13 +13,36 @@
 <?php include "ubd_elements/navigation.php"; ?>
 
 <!-- Main Content -->
+<div class="site_content alt_bg_2">
+    <div class="section_wrapper layout-978px-centered header_content">
+        <h1>Shop</h1>
+        <p>You told us which designs you loved most and we listened. Now we'e made them available for you to buy. Order your favorite pieces, direct from our designers and local manufacturers. Check back frequently to see the new products released each week!</p>
+    </div>
+</div>
 <div class="site_content lookbook_slider_wrapper">
-    <div class="lookbook_slide_2">
+    <div class="lookbook_slide">
         <a href="shop_detail.php" class="lookbook_slider_link">
-            <span class="lookbook_slide_info_wrapper clearfix">
-                <span class="lookbook_slider_call_to_action"><span style="color:#4ebbe2;">BUY NOW</span>&nbsp;&nbsp;for&nbsp;&nbsp;<span style="color:white;">$135.00</span></span>
-                <span class="lookbook_slider_title">ISA Chair <em>by</em> Adele Cuartelon</span>
+            <span class="lookbook_hero_info">
+                <span class="lookbook_hero_info_box arrow_box">
+                    <strong>New This Week:</strong>
+                    <span class="lookbook_hero_info_h1">Fold Stool</span>
+                    <span class="lookbook_hero_info_h2"><em>by</em> David Greene</span>
+                </span>
+                <span class="lookbook_hero_info_box narrow_box">
+                    <strong>Price:</strong>
+                    <span class="lookbook_hero_info_h2 green_text"><del>$275</del> $235</span>
+                </span>
+                <span class="lookbook_hero_info_box narrow_box">
+                    <strong>Discount Until:</strong>
+                    <span class="lookbook_hero_info_h2 green_text">May 27</span>
+                </span>
+                <span class="lookbook_hero_info_box tall_box">
+                    <strong class="adjust_line_height">Locally-produced limited-runs of designs from our community.<br><br>New releases available at a discount for a short time.</strong>
+                    <span class="lookbook_hero_info_h2 make_bold">Order Now</span>
+                </span>
             </span>
+            <img class="lookbook_hero_cover" src="ubd_imgs/shop_hero_cover.png" width="331" height="420" />
+            <img class="lookbook_hero_image" src="ubd_imgs/shop_hero.jpg" width="683" height="420" border="0" />
         </a>
     </div>
 </div>
